@@ -1,3 +1,6 @@
+/* SPDX-License-Identifier: Apache-2.0 */
+/* Copyright © 2015 Jakob Jenkov */
+
 package com.jenkov.cliargs;
 
 import java.lang.reflect.Field;
@@ -6,8 +9,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.TreeSet;
 
-/**
- */
 public class CliArgs {
 
     private String[] args = null;
